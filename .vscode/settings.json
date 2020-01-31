@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/cloud_user/.local/share/virtualenvs/assault-FR5Eo1Ff/bin/python",
+    "python.pythonPath": "/home/vanja/.local/share/virtualenvs/udemy_use_cases_python-qup1QgKo/bin/python",
     "python.linting.enabled": true,
     "editor.formatOnSave": true,
     "python.formatting.provider": "black"
